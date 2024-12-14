@@ -230,12 +230,3 @@ build/Release
 # Coverage directory used by tools like istanbul
 
 coverage/
-
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-
-build/Release
-
-# Package lock files
-
-package-lock.json
-yarn.lock
